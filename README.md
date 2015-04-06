@@ -1,6 +1,6 @@
 ## Please VOTE! - ConEmu has been selected to be on the ballot for the May 2015 Community Choice SourceForge project of the Month!
 
-Voting will end on will end on 2015 April 15. User must be registered at SourceForge.net to vote.
+Voting will end on Wednesday, April 15th, 2015. Users must be registered at SourceForge.net to vote.
 
 Just post in the voting thread (https://sourceforge.net/p/potm/discussion/vote/thread/ca38c9ae/):
 
@@ -31,7 +31,7 @@ This fork grew up from ConEmu by Zoin.
     IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
     OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
 
-Full text of license is here: [https://github.com/Maximus5/ConEmu/blob/master/Release/ConEmu/License.txt](Release/ConEmu/License.txt)
+See [Release/ConEmu/License.txt](https://github.com/Maximus5/ConEmu/blob/master/Release/ConEmu/License.txt) for the full license text.
 
 
 ## Some links
